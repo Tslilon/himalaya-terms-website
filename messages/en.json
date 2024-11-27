@@ -1,0 +1,11 @@
+{
+    "languageToggle": "עברית",
+    "mainText": "Welcome to Himalaya Investments. Before proceeding, please carefully review our terms and conditions. By accepting these terms, you acknowledge that you have read, understood, and agree to be bound by all the conditions set forth below:\n\nWe are committed to maintaining the highest standards of investment management and client service. Our approach combines traditional wisdom with modern investment strategies, much like the timeless majesty of the Himalayas meeting contemporary financial markets.\n\nOur investment philosophy is rooted in careful risk assessment, sustainable growth, and long-term value creation. We believe in transparent communication and maintaining the highest ethical standards in all our operations.\n\nBy accepting these terms, you will receive our detailed investment prospectus and additional information about our services.",
+    "emailPlaceholder": "Enter your email",
+    "acceptTerms": "I accept the terms and conditions",
+    "acceptButton": "Accept",
+    "processing": "Processing...",
+    "emailRequired": "Please enter your email",
+    "emailSent": "Email sent successfully",
+    "emailFailed": "Failed to send email"
+}
